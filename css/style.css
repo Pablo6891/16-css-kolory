@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+background-position: 20%;
+}
+h1{
+    color: red;
+}
+
+p{
+    display: block;
+    width: 60%;
+}
+p.text1 
+{
+color: brown;
+}
+p.text2{
+    color: blue;
+}
